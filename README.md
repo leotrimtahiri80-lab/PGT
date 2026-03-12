@@ -9,3 +9,6 @@ Tasks I am learning:
 - Exploring the repository
 
 This project is used to practice version control and collaboration.
+## Branch Practice
+
+This line was added in the git-practice branch to demonstrate how merging works in Git.
